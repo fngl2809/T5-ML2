@@ -1,10 +1,10 @@
 # Tugas Kelompok - Klasifikasi dengan Deep Learning
 Anggota Kelompok
 - Fiona Anggilia – Klasifikasi Mobil vs Motor (MobileNetV2)
-- Azki – Klasifikasi Garpu vs Sendok (VGG16)
-- Paul – Klasifikasi Apel vs Jeruk (ResNet18)
+- Azkiya_laili – Klasifikasi Garpu vs Sendok (VGG16)
+- Zahra Syifaul – Klasifikasi Apel vs Jeruk (ResNet18)
 - Marwah – Klasifikasi Pebbles vs Shells (ResNet18)
-- Pida – Klasifikasi Teks (RNN LSTM/GRU)
+- Mar'ah_Rofidah – Klasifikasi Teks (RNN LSTM/GRU)
 
 # Deskripsi
 Proyek ini merupakan tugas kelompok untuk membandingkan hasil model machine learning yang dibuat masing-masing anggota.
@@ -17,12 +17,12 @@ Fokus utama meliputi:
 
 # Struktur Repository
 - individu:
-1) Fiona_Anggilia.ipynb
-2) Azkiya_laili.ipynb
-3) zahra_syifaul.ipynb
+1) klasifikasi kendaraan_Fiona_Anggilia.ipynb
+2) klasifikasi_garpi_sendok_Azkiya_laili_442023618023.ipynb
+3) apple-vs-orange-classification-with-resnet18.ipynb
 4) Marwah.ipynb
 5) Mar'ah_rofidah.ipynb
-6) laporan_kelompok.pdf
+6) laporantugas 5 ML_2_kelompok 1.pdf
 8) README.md
 
 - individu/ → berisi notebook hasil percobaan tiap anggota.
