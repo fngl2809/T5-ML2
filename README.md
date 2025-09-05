@@ -16,14 +16,14 @@ Fokus utama meliputi:
 - Kesimpulan strategi paling efektif dari eksperimen tim.
 
 Struktur Repository
-├── individu/
-│   ├── Fiona_Anggilia.ipynb
-│   ├── Azki.ipynb
-│   ├── Paul.ipynb
-│   ├── Marwah.ipynb
-│   └── Pida.ipynb
-├── laporan_kelompok.pdf
-└── README.md
+- individu:
+1) Fiona_Anggilia.ipynb
+2) Azki.ipynb
+3) Paul.ipynb
+4) Marwah.ipynb
+5) Pida.ipynb
+6) laporan_kelompok.pdf
+&) README.md
 
 - individu/ → berisi notebook hasil percobaan tiap anggota.
 - laporan_kelompok.pdf → laporan akhir kelompok (maks. 5 halaman).
