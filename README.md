@@ -4,7 +4,7 @@ Anggota Kelompok
 - Azkiya_laili – Klasifikasi Garpu vs Sendok (VGG16)
 - Zahra Syifaul – Klasifikasi Apel vs Jeruk (ResNet18)
 - Marwah – Klasifikasi Pebbles vs Shells (ResNet18)
-- Mar'ah_Rofidah – Klasifikasi Teks (RNN LSTM/GRU)
+- Mar'ah_Rofidah – Klasifikasi Butterfly Vs Bird (MobileNetV2)
 
 # Deskripsi
 Proyek ini merupakan tugas kelompok untuk membandingkan hasil model machine learning yang dibuat masing-masing anggota.
