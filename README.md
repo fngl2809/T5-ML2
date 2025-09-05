@@ -18,12 +18,12 @@ Fokus utama meliputi:
 # Struktur Repository
 - individu:
 1) Fiona_Anggilia.ipynb
-2) Azki.ipynb
-3) Paul.ipynb
+2) Azkiya_laili.ipynb
+3) zahra_syifaul.ipynb
 4) Marwah.ipynb
-5) Pida.ipynb
+5) Mar'ah_rofidah.ipynb
 6) laporan_kelompok.pdf
-&) README.md
+8) README.md
 
 - individu/ → berisi notebook hasil percobaan tiap anggota.
 - laporan_kelompok.pdf → laporan akhir kelompok (maks. 5 halaman).
