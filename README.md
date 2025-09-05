@@ -21,7 +21,7 @@ Fokus utama meliputi:
 2) klasifikasi_garpi_sendok_Azkiya_laili_442023618023.ipynb
 3) apple-vs-orange-classification-with-resnet18.ipynb
 4) Marwah.ipynb
-5) Mar'ah_rofidah.ipynb
+5) Butterfly_vs_Bird_Marah_Rofidah.ipynb
 6) laporantugas 5 ML_2_kelompok 1.pdf
 8) README.md
 
