@@ -11,7 +11,7 @@ Proyek ini merupakan tugas kelompok untuk membandingkan hasil model machine lear
 Fokus utama meliputi:
 - Komparasi hasil model antar anggota (akurasi, loss, confusion matrix).
 
-- Diskusi pendekatan (augmentasi, pretrained model, fine-tuning, optimasi).
+- Diskusi pendekatan (augmentasi, pretrained mdel, fine-tuning, optimasi).
 
 - Kesimpulan strategi paling efektif dari eksperimen tim.
 
