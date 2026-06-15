@@ -28,3 +28,4 @@ Fokus utama meliputi:
 - individu/ → berisi notebook hasil percobaan tiap anggota.
 - laporan_kelompok.pdf → laporan akhir kelompok (maks. 5 halaman).
 - README.md → dokumentasi singkat repositori.
+- README
